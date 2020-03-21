@@ -64,7 +64,7 @@ apt update && apt upgrade
 apt install php
 apt install git
 git clone 
-https://github.com/Tuhinshubhra/RED_HAWK
+https://github.com/ZCyberHack/RED_HAWK
 echo  $red" T E R I N S T A L L "
 exit
 fi
@@ -78,7 +78,7 @@ apt-get update && apt-get upgrade
 apt-get install git
 apt-get install python2
 git clone 
-https://github.com/shawarkhanethicalhacker/D-TECT
+https://github.com/ZCyberHack/D-TECT
 echo  $red" T E R I N S T A L L "
 exit
 fi
@@ -261,9 +261,9 @@ fi
 
 if [ $bro = 15 ] || [ $bro = 15 ]
 then
-echo " Thanks To Santri team official "
+echo " Thanks To ZCyber Hack team official "
 sleep 1
-echo " Santri pasuruan"
+echo " Cyber Army"
 sleep 1
 echo " Bay-Bay "
 sleep 1
@@ -271,7 +271,7 @@ echo " Para Hacker"
 sleep 1
 echo " Jangan Lupa Colii Yahh "
 sleep 1
-echo " Semoga Lu Besok Mati ea Budjank"
+echo " Ngeres Bae luh"
 sleep 1
 exit
 fi
